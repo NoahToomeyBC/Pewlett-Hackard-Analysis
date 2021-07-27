@@ -42,11 +42,11 @@ In this project, we were tasked with performing data engineering on a number of 
 ### Mentorship Eligible Employees
 
 <p align="center">
-<img width="279" height="239" src="https://user-images.githubusercontent.com/85508764/127184703-ab9464cb-88dc-411c-a8b0-28dbab852607.png">
+<img width="279" height="200" src="https://user-images.githubusercontent.com/85508764/127184703-ab9464cb-88dc-411c-a8b0-28dbab852607.png">
 </p>
 
 ### New Hires Eligible for Mentee Position (1985-2001)
 
 <p align="center">
-<img width="264" height="219" src="https://user-images.githubusercontent.com/85508764/127184897-b4ca36bf-d412-4476-a3f5-d29934b7d56a.png">
+<img width="264" height="189" src="https://user-images.githubusercontent.com/85508764/127184897-b4ca36bf-d412-4476-a3f5-d29934b7d56a.png">
 </p>

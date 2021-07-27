@@ -16,6 +16,10 @@ In this project, we were tasked with performing data engineering on a number of 
 - Luckily, there are only two people retiring from a management level position so upper level operations will not be heavily affected by the incoming "silver tsunami"
 - The majority of people retiring hold positions that will likely be in charge of managing day-to-day operations so small team lead mentorship will be imperative.
 
+### Total Retiring Employees
+<p align="center">
+<img width="273" height="217" src="https://user-images.githubusercontent.com/85508764/127184470-cee4091c-b932-4351-ba8b-fc863d8a2bc3.png">
+</p>
 
 
 ## Results 
@@ -23,7 +27,6 @@ In this project, we were tasked with performing data engineering on a number of 
 
 - The majority of people eligibile for mentorship started working at Pewlett Hackard in the 1990's meaning they'll have at least 20 years of experience to impart on new employees.
 - There are 1,550 employess who would make good candidates for the mentorship program.
-
 
 
 # Summary
@@ -35,3 +38,15 @@ In this project, we were tasked with performing data engineering on a number of 
 -Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
   - Not necessarily, however the overall impact of the silver tsunami can still be reduced by adjusting the mentorship program to have groups of mentees assigned to the most eligible mentors. This will also allow for the mentees to be able to learn and grow together to increase both healthy competition and a greater sense of unity.
+
+### Mentorship Eligible Employees
+
+<p align="center">
+<img width="279" height="139" src="https://user-images.githubusercontent.com/85508764/127184703-ab9464cb-88dc-411c-a8b0-28dbab852607.png">
+</p>
+
+### New Hires Eligible for Mentee Position (1985-2001)
+
+<p align="center">
+<img width="264" height="189" src="https://user-images.githubusercontent.com/85508764/127184897-b4ca36bf-d412-4476-a3f5-d29934b7d56a.png">
+</p>

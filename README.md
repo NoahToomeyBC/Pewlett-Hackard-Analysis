@@ -29,7 +29,9 @@ In this project, we were tasked with performing data engineering on a number of 
 # Summary
 
 -How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+
   - There are a staggering 77,589 positions that will soon need to be filled. This means that ramping up hiring and replacement training will be imperative.
 
-- Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
   - Not necessarily, however the overall impact of the silver tsunami can still be reduced by adjusting the mentorship program to have groups of mentees assigned to the most eligible mentors. This will also allow for the mentees to be able to learn and grow together to increase both healthy competition and a greater sense of unity.
